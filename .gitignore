@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+*.db
+*.log
+*.mo
+._*
+.idea
+*.*~
